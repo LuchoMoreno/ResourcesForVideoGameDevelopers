@@ -1,6 +1,6 @@
 # :memo:List
 
-# ResourcesVideoGameDevelopers
+# ResourcesVideoGameDevelopers (2019)
 List of resources for beginners videogame developers
 
 # :memo:List
